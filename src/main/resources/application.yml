@@ -1,0 +1,11 @@
+logging:
+  level: debug
+
+spring:
+  datasource:
+      url: jdbc:mysql://localhost:3306/sbjpa_db
+      username: srkontham
+      password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
