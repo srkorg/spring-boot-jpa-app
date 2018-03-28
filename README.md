@@ -1,2 +1,2 @@
-# springboot-jpa-app
+# spring-boot-jpa-app
 Spring Boot JPA App
