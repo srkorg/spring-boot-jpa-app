@@ -60,7 +60,12 @@
             <artifactId>java-uuid-generator</artifactId>
             <version>${java.uuid.version}</version>
         </dependency>
-    </dependencies>
+		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-envers -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-envers</artifactId>
+		</dependency>
+	</dependencies>
 
 	<build>
 		<plugins>
